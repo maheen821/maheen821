@@ -38,9 +38,8 @@ http://seasonapp.infinityfreeapp.com
   </p>
 
 ## My Mobile Application:
-    <p align="center">
    https://final-app-f1605.web.app
-  </p>
+  
 
   
 ## 🚀 Projects
