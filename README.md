@@ -1,7 +1,7 @@
-<h1 align="center">✨ Welcome to <span style="color:#ff69b4;">Maheen Qamar</span>'s GitHub! ✨</h1>
+<h1 align="center">✨ Welcome to Maheen Qamar's GitHub! ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=💻+Web+Developer;💡+Tech+Learner;🌟+Creative+Coder;🎯+Passionate+About+Building+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=💻+Web+Developer;💡+Tech+Learner;🌟+Creative+Coder;🎯+Passionate+About+Building+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,10 +13,10 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.Com Part 2 | Diploma in Software Engineering (Aptech)
-- 💻 Currently Working on: Laundry Management System in ASP.NET MVC
-- ✨ Passionate about Frontend & Backend Development
-- 📧 Email: [mq254411@gmail.com](mailto:mq254411@gmail.com)
-- 📱 WhatsApp: [0335-1754954](https://wa.me/923351754954)
+- 💻 Working on: Laundry Management System in ASP.NET MVC
+- ✨ Interested in Frontend & Backend Development
+- 📫 Email: [mq254411@gmail.com](mailto:mq254411@gmail.com)
+- 📱 WhatsApp: 0335-1754954
 
 ---
 
@@ -35,11 +35,11 @@
 
 ## 🚀 Projects
 
-- 💼 **Portfolio Website** – HTML, CSS, JS + animations
-- 🛒 **Shopping Cart** – Node.js + MySQL
-- 🧾 **Invoice System** – ASP.NET MVC
-- 📊 **Reports Module** – PDF & Excel Export
-- 🧺 **Laundry Management App** – Delivery, Payment & Packages
+- 💼 Portfolio Website (HTML/CSS/JS + animations)
+- 🛒 Node.js + MySQL Shopping Cart
+- 🧾 Invoice System in ASP.NET MVC
+- 📊 Reports Module (PDF/Excel Export)
+- 🧺 Laundry Management App (with delivery, payment, and packages)
 
 ---
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect!
 
 <p align="center">
   <a href="mailto:mq254411@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
