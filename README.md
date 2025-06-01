@@ -1,11 +1,11 @@
 <!-- 💖 Animated Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=✨%20Maheen%20Qamar%20✨&fontAlign=center&fontColor=fff&color=gradient&fontSize=45&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=✨%20Maheen%20Qamar%20✨&fontAlign=center&fontColor=fff&color=F78DA7&fontSize=45&animation=twinkling"/>
 </p>
 
 <!-- 🎯 Typing Animated Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=💻+Web+Developer;🎨+Creative+UI+Designer;📚+Full+Stack+Learner;🧠+Problem+Solver;🌸+Based+in+Karachi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=💻+Web+Developer;🎨+Creative+UI+Designer;📚+Full+Stack+Learner;🧠+Problem+Solver;🌸+Based+in+Karachi" />
 </p>
 
 <!-- 🎀 Cute Floating GIF -->
@@ -73,5 +73,5 @@
 
 <!-- 🌊 Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F78DA7&height=100&section=footer"/>
 </p>
