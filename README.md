@@ -16,7 +16,6 @@
 - 💻 Working on: Laundry Management System in ASP.NET MVC
 - ✨ Interested in Frontend & Backend Development
 - 📫 Email: [mq254411@gmail.com](mailto:mq254411@gmail.com)
-- 📱 WhatsApp: 0335-1754954
 
 ---
 
