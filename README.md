@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">✨ Welcome to Maheen Qamar's GitHub! ✨</h1>
 
-<!--
-**maheen821/maheen821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">💻 Web Developer | 💡 Tech Learner | 🌟 Creative Coder</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 B.Com Part 2 | Diploma in Software Engineering - Aptech
+- 💻 Working on: Laundry Management System (ASP.NET MVC)
+- 💬 Skills: HTML, CSS, Bootstrap, JavaScript, AngularJS, PHP, SQL Server, MySQL
+- 📫 Email: mq254411@gmail.com
+- 📱 WhatsApp: 0335-1754954
+
+---
+
+### 🚀 Projects
+
+- 🔹 Portfolio Website  
+- 🔹 Shopping Cart in Node.js + MySQL  
+- 🔹 Invoice System (ASP.NET MVC)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maheen821&show_icons=true&theme=tokyonight" />
+</p>
