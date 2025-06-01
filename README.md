@@ -32,7 +32,17 @@
 </p>
 
 ---
+##  My Websites:
+  <p align="center">
+http://seasonapp.infinityfreeapp.com
+  </p>
 
+## My Mobile Application:
+    <p align="center">
+final-app-f1605.web.app
+  </p>
+
+  
 ## 🚀 Projects
 
 - 💼 **Portfolio Website** — HTML, CSS, JS with engaging animations  
