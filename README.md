@@ -1,6 +1,6 @@
 <!-- Animated Header Banner with Professional Colors -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slideIn&color=1E3A8A&height=200&section=header&text=✨%20Welcome%20to%20my%20profile%20✨&fontSize=42&fontColor=C0C0C0&animation=slideIn" alt="Welcome to my profile" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=200&section=header&text=✨%20Welcome%20to%20my%20profile%20✨&fontSize=42&fontColor=C0C0C0&animation=fadeIn" alt="Welcome to my profile" />
 </p>
 
 <!-- Typing Animation -->
@@ -21,7 +21,7 @@
 🧺 Currently developing: **Laundry Management System (ASP.NET MVC)**  
 💖 Passionate about building **robust full-stack web applications** with elegant UI/UX  
 📫 Reach me at: [mq254411@gmail.com](mailto:mq254411@gmail.com)  
-📱 WhatsApp: [+92 335 1754954](https://wa.me/923351754954)
+
 
 ---
 
@@ -64,5 +64,5 @@
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slideIn&color=1E3A8A&height=120&section=footer&animation=slideIn" alt="Footer slide" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=footer" alt="Footer wave" />
 </p>
