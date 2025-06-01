@@ -1,7 +1,7 @@
-<h1 align="center">✨ Welcome to <span style="color:#ff69b4;">Maheen Qamar</span>'s GitHub! ✨</h1>
+<h1 align="center">✨ Welcome to Maheen Qamar's GitHub! ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F78DA7&center=true&width=435&lines=💻+Web+Developer;💡+Tech+Learner;🌟+Creative+Coder;🎯+Passionate+About+Building+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=💻+Web+Developer;💡+Tech+Learner;🌟+Creative+Coder;🎯+Passionate+About+Building+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
