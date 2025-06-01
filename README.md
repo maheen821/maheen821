@@ -26,10 +26,8 @@
 ---
 
 ## 🛠️ Tech Stack
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,php,mysql,mssql" />
-</p>
+
 
 ---
 ##  My Websites:
