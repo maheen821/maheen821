@@ -26,14 +26,14 @@
 ---
 
 ## 🛠️ Tech Stack
+ <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,php,mysql,mssql" />
-
+ </p>
 
 ---
 ##  My Websites:
-  <p align="center">
 http://seasonapp.infinityfreeapp.com
-  </p>
+ 
 
 ## My Mobile Application:
    https://final-app-f1605.web.app
