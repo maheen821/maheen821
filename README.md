@@ -63,7 +63,6 @@ http://seasonapp.infinityfreeapp.com
 
 <p align="center">
   <a href="mailto:mq254411@gmail.com" title="Email"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/923351754954" title="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://github.com/maheen821" title="GitHub"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
