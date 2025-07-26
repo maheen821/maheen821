@@ -1,3 +1,4 @@
+
 <!-- Animated Header Banner with Professional Colors -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=200&section=header&text=✨%20Welcome%20to%20my%20profile%20✨&fontSize=42&fontColor=C0C0C0&animation=fadeIn" alt="Welcome to my profile" />
@@ -12,6 +13,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="180" alt="Coding animation" />
 </p>
+##  My  Portfolio Website:
+https://dreamincode.netlify.app/
 
 ---
 
@@ -31,8 +34,6 @@
  </p>
 
 ---
-##  My Websites:
-http://seasonapp.infinityfreeapp.com
  
 
 ## My Mobile Application:
