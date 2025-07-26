@@ -13,12 +13,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="180" alt="Coding animation" />
 </p>
-##  My  Portfolio Website:
-https://dreamincode.netlify.app/
+
 
 ---
 
 ## 👩‍💻 About Me
+##  My  Portfolio Website:
+https://dreamincode.netlify.app/
 
 🌼 **B.Com Part 2** | **Diploma in Software Engineering (Aptech)**  
 🧺 Currently developing: **Laundry Management System (ASP.NET MVC)**  
