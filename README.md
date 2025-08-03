@@ -21,6 +21,9 @@
 ##  My  Portfolio Website:
 https://dreamincode.netlify.app/
 
+## 📒🚀 A sleek React-based notes app featuring category tags, emoji support, rich text editing, and seamless LocalStorage syncing — built for a smooth and modern writing experience.
+https://mynotebook-react.netlify.app/
+
 🌼 **B.Com Part 2** | **Diploma in Software Engineering (Aptech)**  
 🧺 Currently developing: **Laundry Management System (ASP.NET MVC)**  
 💖 Passionate about building **robust full-stack web applications** with elegant UI/UX  
